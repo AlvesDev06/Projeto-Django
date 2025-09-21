@@ -19,5 +19,9 @@ O objetivo foi explorar a criação de aplicações web estruturadas, aplicando 
 2. Navegue até a pasta onde está localizado o arquivo `manage.py` (no caso deste projeto: `Django1/mysite`):  
    ```terminal
    cd Django1/mysite
-3. Digite o seguinte comando: python manage.py runserver
-4. Abra o navegador e acesse a aplicação através do endereço: http://127.0.0.1:8000/
+3. Digite o seguinte comando:
+    ```terminal
+    python manage.py runserver
+4. Abra o navegador e acesse a aplicação através do endereço:
+     ```terminal
+     http://127.0.0.1:8000/
